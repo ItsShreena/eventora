@@ -54,7 +54,7 @@ Now that you have your credentials, you need to plug them into the backend. Open
 
 ```env
 # Paste the MongoDB string you generated (make sure you swapped the password)
-MONGO_URI=mongodb+srv://eventoradmin:your_actual_password@cluster0.xxxxx.mongodb.net/eventora?retryWrites=true&w=majority
+MONGO_URI= *hidden due to security reasons*
 
 # This can be any random string, but keep it secure.
 JWT_SECRET=supersecretjwtkey_eventora
